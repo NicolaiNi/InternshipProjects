@@ -1,6 +1,6 @@
 # Compare two folder trees recursively
 
-C# example to print folder structure of two folder tress to console and do different things with it. Was used in an other application to find datafiles with equal names and compare them.
+C# example to print folder structure of two folder tress to console and do different things with it. Was used in an other application to find datafiles with equal names and compare them. And to get in touch with recursive function calls.
 
 * search for equal file types with the same parent folder, 
   e.g ```...\folder1\a\test.txt``` and ```...\folder2\b\a\test.txt``` and do something
